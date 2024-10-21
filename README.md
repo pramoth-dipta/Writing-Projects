@@ -1,3 +1,2 @@
 # Writing-Projects
-<br/>
-All the writing projects like Blogs, Articles and Social Media Posts are in this Git Repository
+Writing files like Blogs and Articles are in this Git Repository
